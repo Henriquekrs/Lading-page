@@ -21,7 +21,7 @@ const Button = styled.button`
 
   & svg:hover {
     transition: 0.5s ease-in-out;
-    transform: scale(1.5);
+    transform: scale(1.1);
   }
 `;
 
